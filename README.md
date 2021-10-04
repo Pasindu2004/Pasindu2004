@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱I am a young 3D artist. 
+📫Reach me via pasinduyaham@gmail.com
 <!--
 **Pasindu2004/Pasindu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
